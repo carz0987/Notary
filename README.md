@@ -43,15 +43,12 @@ This tool stands out by bridging the gap between transcription and actionable no
 #### Data Sources
 
 - Custom-collected audio files (e.g., classroom recordings, meeting simulations)
-- Public speech datasets such as:
-  - **TED Talks Open Dataset**
-  - **LibriSpeech ASR Corpus**
 
 #### Relevant Coursework and Lab Materials
 
-- NLP and summarization labs utilizing GPT models and the HuggingFace library.
+- Advanced utilization of GPT models.
 - Labs covering RESTful API integrations and CLI tool development.
-- Python-based audio processing assignments (e.g., using `pyaudio` or `sounddevice`).
+- ChatGPT API integration.
 
 ---
 
