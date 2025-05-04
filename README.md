@@ -37,8 +37,7 @@ This tool stands out by bridging the gap between transcription and actionable no
 #### Open-Source Repositories
 
 - **Whisper by OpenAI**: [https://github.com/openai/whisper](https://github.com/openai/whisper)
-- **HuggingFace Transformers**: [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
-- **Ollama (Local LLM Inference)**: [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
+- **ChatGPT 4o by OpenAI** [https://chatgpt.com/](https://chatgpt.com/)
 - **Gradio (Web Interface)**: [https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)
 
 #### Data Sources
