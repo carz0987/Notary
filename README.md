@@ -63,8 +63,7 @@ This tool stands out by bridging the gap between transcription and actionable no
 - **Demonstration**:
   - Live walkthrough using a CLI or web-based app
 - **Documentation**:
-  - User manual / README with setup instructions
-  - System architecture and codebase explanation
+  - User wiki with setup instructions
 - **Evaluation Metrics**:
   - Transcription quality assessment (manual or automated)
   - Summarization quality metrics (e.g., ROUGE or human evaluation)
