@@ -20,7 +20,7 @@ This project proposes the development of an **AI-powered assistant** capable of 
 - **Speech-to-Text Transcription**: Integration with OpenAI's open-source Whisper model for high-quality transcription.
 - **Intelligent Summarization**: Notes are generated using summarization models such as GPT-3.5/4 or open-source equivalents (e.g., Mistral).
 - **User Interface**: Command-line interface or web-based UI (e.g., Streamlit or Gradio) for ease of use.
-- **Export Options**: Notes can be saved or exported in Markdown, PDF, or text file formats.
+- **Export Options**: Notes can be saved or exported a text file format.
 
 #### Innovation and Practical Impact
 
